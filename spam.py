@@ -325,8 +325,8 @@ def start(nomor,x): # Def Untuk Start Tools
 
 def main():
     os.system("cls") # Clear Terminal agar CMD berwarna
-    autoketik(f"Selamat datang di {merah}SP spam bot")
-    print(f"""{kuning}Author      : {hijau}unknown
+    autoketik(f"Selamat datang di {merah}spam otp")
+    print(f"""{kuning}Author      : {hijau}Himalaglebruhv
 {kuning}Github      : {merah}https://github.com/Himalagle-exc27
 {kuning}welcome  : {biru}tools ini diciptakan oleh Himalaglebruhv""")
     # Contoh : 085773922803
